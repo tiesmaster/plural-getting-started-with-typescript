@@ -27,4 +27,4 @@ tags
 
 node_modules/
 
-app/app.js
+js/*

@@ -26,3 +26,5 @@ tags
 # End of https://www.gitignore.io/api/vim,visualstudiocode
 
 node_modules/
+
+app/app.js

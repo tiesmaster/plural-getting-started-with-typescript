@@ -6,7 +6,8 @@
     "**/.svn": true,
     "**/.hg": true,
     "**/.DS_Store": true,
-    "**/.gitignore": true
+    "course-source/": true,
+    "app/app.js": true
   },
 
   "editor.quickSuggestions": true,
